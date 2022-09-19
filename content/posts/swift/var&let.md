@@ -1,6 +1,7 @@
 ---
 title: "Swift의 var과 let"
 date: 2022-09-19T19:01:29+09:00
+lastmod: 2022-09-19T20:21:41+09:00
 draft: false
 description: "Swift's var & let"
 tags: ["Swift"]
@@ -26,10 +27,12 @@ num = 20 //문제 없음
 
 상수는 코드 내에서 반복적으로 사용하는 값이 있을 경우, 상수에 할당하여 사용하면 유지보수에 도움이 된다.
 
+
 ```Swift
 let 상수명 : 데이터 타입
+let test : String //선언 시, 초기화를 안해주어도 사용가능함
 let text : String = "상수"
-text = "변수" //에러 발생
+text = "변수" //syntax error 발생
 ```
 
 > 애플은 코드의 효율성과 실행 성능을 높이기 위해서 변수(var)보다는 상수(let) 사용을 권장한다.
