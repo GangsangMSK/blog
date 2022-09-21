@@ -1,9 +1,9 @@
 ---
-title: "hugo & Github을 사용한 블로그 구축"
+title: "[Blog] hugo & Github을 사용한 블로그 구축"
 date: 2022-09-13T21:27:41+09:00
 lastmod: 2022-09-14T21:27:41+09:00
 draft: false
-description: "[Blog] hugo, Github, Mac을 이용하여 github.io를 생성하는 방법"
+description: "hugo, Github, Mac을 이용하여 github.io를 생성하는 방법"
 tags: ["Mac","Linux", "OS", "Blog"]
 categories: ["Blog"]
 toc: true
