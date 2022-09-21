@@ -1,5 +1,5 @@
 ---
-title: "타입 어노테이션(Type annotation)과 타입 추론(Type inference)"
+title: "[Swift] 타입 어노테이션(Type annotation)과 타입 추론(Type inference)"
 date: 2022-09-19T19:51:26+09:00
 draft: false
 description: "Swift's type annotation and type inference"

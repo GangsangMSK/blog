@@ -432,7 +432,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       [params.page.comment.utterances]
         enable = true
         # owner/repo
-        repo = "GangsangMSK/blog-comments"
+        repo = "GangsangMSK/GangsangMSK.github.io"
         issueTerm = "pathname"
         label = "💬"
         lightTheme = "github-light"

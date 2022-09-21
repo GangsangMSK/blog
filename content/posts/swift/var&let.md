@@ -1,5 +1,5 @@
 ---
-title: "Swift의 var과 let"
+title: "[Swift] var과 let"
 date: 2022-09-19T19:01:29+09:00
 lastmod: 2022-09-19T20:21:41+09:00
 draft: false

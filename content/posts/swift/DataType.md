@@ -1,5 +1,5 @@
 ---
-title: "Swift의 DataType"
+title: "[Swift] DataType(자료형)"
 date: 2022-09-16T18:39:03+09:00
 draft: false
 description: "Swift's datatype"
