@@ -1,5 +1,5 @@
 ---
-title: "[Swift] Auto LayoutTest"
+title: "[Swift] Auto Layout Test"
 date: 2023-02-03T03:45:44+09:00
 draft: false
 tags: ["Swift", "Auto Layout"]
